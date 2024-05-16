@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #050d51;
+    color: white;
+}
+
+h1 {
+    font-size: 2vw;
+    text-align: center;
+}
